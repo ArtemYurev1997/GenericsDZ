@@ -1,9 +1,6 @@
 package by.pvt.generics;
 
-public class Motorcycle extends Vehicle{
+public class Motorcycle {
 
 
-    public Motorcycle(String name) {
-        super(name);
-    }
 }
